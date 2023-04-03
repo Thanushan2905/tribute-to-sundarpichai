@@ -1,2 +1,2 @@
-# tribute-to-sundarpichai
-tribute to sundarpichai - for learning purpose
+# Tribute-to-Sundarpichai
+Tribute to Sundarpichai - for learning purpose
